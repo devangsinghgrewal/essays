@@ -1,5 +1,5 @@
 Title: Blogroll
-Date: 2024-07-07
+Date: 2025-07-07
 
 Below are sites, newsletters, and archives that consistently teach me something new about AI, programming, or living well.  I try to keep the list short; everything here has earned a permanent tab in my RSS reader.
 

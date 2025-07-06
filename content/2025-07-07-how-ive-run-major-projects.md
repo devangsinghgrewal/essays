@@ -1,5 +1,5 @@
 Title: How I've run major projects
-Date: 2024-07-07 09:00
+Date: 2025-07-07 09:00
 Summary: focus • maintain a detailed plan for victory • run a fast OODA loop • overcommunicate • break off subprojects • have fun • bonus content: my project management starter kit
 Tags: essays, projects
 

@@ -1,5 +1,5 @@
 Title: Staring into the abyss as a core life skill
-Date: 2024-07-07 09:30
+Date: 2025-07-07 09:30
 Summary: thinking about scary things • examples from startups • finding a buddy • getting the timing right • a list of abyss questions
 Tags: essays, mindset
 

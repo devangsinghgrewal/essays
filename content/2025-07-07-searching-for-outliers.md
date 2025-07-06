@@ -1,5 +1,5 @@
 Title: Searching for outliers
-Date: 2024-07-07 10:00
+Date: 2025-07-07 10:00
 Summary: most important things are outlier-driven • draw lots of samples • filter for maybe-amazing, not probably-good • learn where your bar should be • expect to fail a lot
 Tags: essays, decision-making
 
