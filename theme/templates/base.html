@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="icon" href="{{ SITEURL }}/favicon.ico">
+  <meta name="color-scheme" content="dark light">
+  <link rel="stylesheet" href="{{ SITEURL }}/theme/style.css">
+</head>
+<body>
+<nav>
+  <a href="{{ SITEURL }}/">home</a> •
+  <a href="{{ SITEURL }}/say-hi/">say hi</a> •
+  <a href="{{ SITEURL }}/blogroll/">blogroll</a>
+</nav>
+<header>
+  <h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
+</header>
+<main>{% block content %}{% endblock %}</main>
+<footer>
+  © {{ now().year }} {{ AUTHOR }} · <a href="{{ SITEURL }}/rss.xml">rss</a>
+</footer>
+</body>
+</html> 
